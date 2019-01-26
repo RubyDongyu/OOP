@@ -13,9 +13,9 @@
 
 ### 继承/泛化关系\(Generalization\)
 
-![](/assets/generalization.png)
+![](/assets/generalization3.png)
 
-
+继承的目的是为了抽象出同类型对象的公共属性和行为，实现复用。比如猫和老虎都有眼睛，嘴巴并且都能移动，通过抽象出共有的属性和行为来方便继承扩展。
 
 ### 实现关系\(Realization\)
 
@@ -34,8 +34,4 @@
 ### 组合\(Composition\)
 
 ![](/assets/composition.png)
-
-
-
-
 
