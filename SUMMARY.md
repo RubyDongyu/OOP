@@ -9,7 +9,7 @@
 * [面向对象特征](mian-xiang-dui-xiang-te-zheng.md)
   * 参考文档
 * [面向对象设计原则](mian-xiang-dui-xiang-she-ji-yuan-ze.md)
-  * 参考文档
+  * [参考文档](mian-xiang-dui-xiang-she-ji-yuan-ze/can-kao-wen-dang.md)
 * [设计模式](she-ji-mo-shi.md)
   * 参考文档
 
