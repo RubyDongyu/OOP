@@ -21,8 +21,6 @@
 
 ![](/assets/generalization3.png)
 
-
-
 ### 实现关系\(Realization\)
 
 实现是对抽象出的接口具体化的过程。比如我们程序中定义的任务Task都有一个启动的开关让其执行，而不同的任务执行的内部方式又是迥异的，这样通过抽象定义出接口，让子类来实现具体的接口。
@@ -39,7 +37,7 @@
 
 关联关系是用一条直线表示的，也可以添加箭头表明单向关联。如：
 
-![](/assets/association2.png)
+![](/assets/association3.png)
 
 ### 依赖关系\(Dependency\)
 
